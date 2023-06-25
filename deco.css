@@ -13,6 +13,8 @@ body{
     height: 936px;
     margin: 0px;
     background: #1E1F2F;
+    margin: 40px;
+    margin-top: 0px;
     align-items: end;
     display: flex;
     flex-direction: row;
@@ -55,7 +57,7 @@ body{
 .belahkkiri{
 
 /* border: solid 1px red; */
-width: 957px;
+width: 50%;
 height: 936px;
 
 }
@@ -200,10 +202,10 @@ height: 936px;
 #gambar2{
 
     position: relative;
-    margin-top: 10PX;
+    margin-top: 0PX;
     /* border: 1px solid blue; */
-    width: 43.94px;
-    height: 34px;
+    width: 48px;
+    height: 48px;
     
 }
 
@@ -228,8 +230,9 @@ height: 936px;
 .belahkanan{
 
     /* border: solid 1px yellow; */
-    width: 654px;
+    width: 50%;
     height: 936px;
+    
     
     }
 
@@ -238,12 +241,13 @@ height: 936px;
 margin-top: 166px;
 margin-right: 150px;
 margin-bottom: 245px;
-margin-left: 0px;
+margin-left: 152px;
 border: solid 60px #FFFFFF;
 width: 504px;
 height: 618px;
 position: relative;
 box-sizing: border-box;
+
 
 
  }   
