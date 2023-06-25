@@ -1,5 +1,13 @@
 body{
 
+    position: absolute;
+    background: #000000;
+    margin: 0px;
+    
+}
+
+.mainpart{
+
     position: relative;
     width: 1611px;
     height: 936px;
@@ -9,6 +17,8 @@ body{
     display: flex;
     flex-direction: row;
     box-sizing: content-box;
+    overflow: hidden
+
 }
 
 .background-box1{
@@ -20,6 +30,7 @@ body{
     height: 644px;
     left: 1169px;
     top: -179px;
+    bottom: auto;
     align-items: end;
     
     
