@@ -1,0 +1,290 @@
+body{
+
+    position: relative;
+    width: 1611px;
+    height: 936px;
+    margin: 0px;
+    background: #1E1F2F;
+    align-items: end;
+    display: flex;
+    flex-direction: row;
+    box-sizing: content-box;
+}
+
+.background-box1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 558px;
+    height: 644px;
+    left: 1169px;
+    top: -179px;
+    align-items: end;
+    
+    
+    border: 60px solid #48596D;
+
+}
+
+.background-box2{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 558px;
+    height: 644px;
+    left: 691px;
+    top: 385px;
+    
+    border: 60px solid #2D2F48;
+
+}
+
+.belahkkiri{
+
+/* border: solid 1px red; */
+width: 957px;
+height: 936px;
+
+}
+
+.topleft{
+
+    margin-left: 130px;
+    margin-top: 125px;
+    /* display: flex; */
+    /* flex-direction: row; */
+    gap: 0px;
+    height: 96px;
+    /* border: solid red 1px; */
+}
+
+#abc{
+    
+    position: absolute;
+    width: 31.06px;
+    height: 27.42px;
+    
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+
+}
+
+#def{
+
+    position: absolute;
+    width: 60.47px;
+    height: 68.55px;
+    left: 31.07px;
+    top: 27.42px;
+    box-sizing: border-box;
+    
+    /* font */
+    
+    background: #E82C4F;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    padding: 8px 10px 20px 12px;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    
+}
+
+#warmups{
+
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400px;
+    font-size: 96px;
+    position: absolute;
+    margin-left: 130px;
+    color: #FFFFFF;
+    margin-top: 0px;
+    box-sizing: border-box;
+
+}
+
+.midleft{
+
+    margin-left: 130px;
+    margin-top: 80px;
+    /* display: flex; */
+    /* flex-direction: row; */
+    gap: 0px;
+    height: 400px;
+    /* border: solid yellow 1px; */
+    position: relative;
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 156px;
+    line-height: 93.5%;
+    /* or 146px */
+
+    display: flex;
+    align-items: center;
+}
+
+.bottomleft1{
+
+    margin-left: 130px;
+    margin-top: 88px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+     /* border: solid yellow 1px; */
+    position: absolute;
+    letter-spacing: 0.08em;
+    gap: 26px;
+    
+    
+    
+}
+
+
+#gambar1{
+
+    position: relative;
+    margin-top: 10PX;
+    /* border: 1px solid blue; */
+    width: 43.94px;
+    height: 34px;
+    
+}
+
+#tenmax{
+
+    
+    position: relative;
+    margin: 0px;
+    font-size: 64px;
+    line-height: 40px;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    
+
+}
+
+.bottomleft2{
+
+    margin-left: 495px;
+    margin-top: 88px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+     /* border: solid yellow 1px; */
+    position: absolute;
+    gap: 26px;
+    
+    
+    
+}
+
+
+#gambar2{
+
+    position: relative;
+    margin-top: 10PX;
+    /* border: 1px solid blue; */
+    width: 43.94px;
+    height: 34px;
+    
+}
+
+#twentymin{
+
+    
+    position: relative;
+    margin: 0px;
+    font-size: 64px;
+    height: 48px;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.belahkanan{
+
+    /* border: solid 1px yellow; */
+    width: 654px;
+    height: 936px;
+    
+    }
+
+ .boxbesar{
+
+margin-top: 166px;
+margin-right: 150px;
+margin-bottom: 245px;
+margin-left: 0px;
+border: solid 60px #FFFFFF;
+width: 504px;
+height: 618px;
+position: relative;
+box-sizing: border-box;
+
+
+ }   
+
+
+ #boxkecilmerah{
+
+    margin-top: 79px;
+    margin-right: 72px;
+    margin-left: 72px;
+    margin-bottom: 239px;
+    border: solid 40px #E82C4F;
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    box-sizing: border-box;
+
+
+ }
+
+ #boxkecilputih{
+
+    margin: 40px;
+    border: solid 20px #FFFFFF;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    box-sizing: border-box;
+
+ }
+
+ #boxungu{
+
+    margin-top: 240px;
+    margin-left: -40px;
+    border: solid 20px #3256A1;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    box-sizing: border-box;
+
+ }
+
+ #bulatputih{
+
+    margin-top: 240px;
+    margin-left: 120px;
+    border: solid 20px #ffffff;
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    box-sizing: border-box;
+
+ }
